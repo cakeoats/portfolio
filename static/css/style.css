@@ -1,0 +1,16 @@
+.navbar .nav-item .nav-link:hover {
+    color: chocolate;
+}
+
+.container-contact {
+    margin-top: 100px;
+}
+
+.form {
+    width: 50%
+} 
+
+.cards {
+    text-decoration: none;
+    color: black;
+}
